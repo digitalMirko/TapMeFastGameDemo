@@ -15,7 +15,6 @@ to play again by hitting the Restart button but you will have to wait 5 seconds 
 
 Its a fun game to see how fast you are someone else is. Fun for the whole family to enjoy
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
